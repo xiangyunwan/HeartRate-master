@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\HeartRate-master\app\libs\achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="D:\android_github\HeartRate-master\app\build\intermediates\pre-dexed\debug\achartengine-1.0.0_ab42aa3d6ad8e57dec2fcf3f91efd99cda479a7a.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android_github\HeartRate-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f77c7e5b1866faff5f829ffced05ed0426051180.jar" />
+    </item>
+
+</items>
